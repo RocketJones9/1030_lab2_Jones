@@ -8,3 +8,5 @@ public class EECS1030_lab2_Jones{
 }
 
 //This is a simple Java application that prints "Hello World!" to the console.
+
+//Note: 9/12/2025, added this file of my work to the repository since I was unsure if I needed to or not. I deiced to just add it.
